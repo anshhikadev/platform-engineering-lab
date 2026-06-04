@@ -1,64 +1,25 @@
 # Platform Engineering Lab
 
-Hands-on platform engineering portfolio demonstrating practical experience with:
+Hands-on platform engineering portfolio covering Docker, Kubernetes, Terraform, Helm, AWS, and automation.
 
-* Docker
-* Kubernetes
-* Terraform
-* AWS
-* Helm
-* Linux
-* CI/CD
-* Automation
+## Docker
 
-## Repository Structure
+* [x] nginx-lab
+* [x] python-flask-lab
+* [x] docker-compose-lab
 
-```text
-docker/
-kubernetes/
-terraform/
-helm/
-scripts/
-docs/
-```
+## Kubernetes
 
-## Learning Roadmap
+* [ ] flask-deployment-lab
+* [ ] configmap-lab
+* [ ] ingress-lab
 
-### Phase 1 - Containers
+## Terraform
 
-* Docker fundamentals
-* Images and containers
-* Dockerfiles
-* Multi-stage builds
+* [ ] local-provider-lab
+* [ ] aws-vpc-lab
 
-### Phase 2 - Kubernetes
+## Helm
 
-* Deployments
-* Services
-* ConfigMaps
-* Secrets
-* Ingress
-
-### Phase 3 - Helm
-
-* Chart development
-* Application packaging
-* Environment management
-
-### Phase 4 - Infrastructure as Code
-
-* Terraform fundamentals
-* AWS infrastructure
-* Reusable modules
-
-### Phase 5 - Platform Engineering
-
-* CI/CD
-* Observability
-* Automation
-* GitOps
-
-## Status
-
-🚧 Under active development
+* [ ] flask-chart-lab
 
